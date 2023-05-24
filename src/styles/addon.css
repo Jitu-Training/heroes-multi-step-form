@@ -6,10 +6,13 @@
     padding: 5px;
     margin-bottom: 9px;
     border-radius: 10px;
+    width: 35vw;
 }
-
+.add-container .add-Ons{
+    padding: 6%;
+}
 .add-container {
-    margin: 20px;
+    margin: 15px;
     height: 70vh;
 }
 

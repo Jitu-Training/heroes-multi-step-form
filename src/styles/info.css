@@ -4,6 +4,11 @@
     gap: 8px;
     top: 40px;
     height: 70vh;
+    width: 35vw;
+}
+.info-form .profile{
+    padding: 5%;
+    font-size: 30px;
 }
 .info-form p{
     color: hsl(231, 11%, 63%);;

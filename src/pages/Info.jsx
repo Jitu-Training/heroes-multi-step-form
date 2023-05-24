@@ -5,7 +5,7 @@ function Info() {
     return (
         <div className="info-container">
             <form action="" className="info-form">
-                <h2>Personal info</h2>
+                <h2 className='profile'>Personal info</h2>
                 <p>Please provide your name, email address, and phone number</p>
                 <label >Name</label>
                 <input type="text" placeholder="Name" required />

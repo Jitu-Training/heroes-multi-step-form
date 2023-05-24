@@ -5,12 +5,38 @@
 
 
 }
+.summary-container .finishing{
+    padding-top: 5%;
+}
+.main-Summary{
+    border-radius: 10px;
+    /* border: 1px solid red; */
+    padding: 1%;
+    background-color: hsl(229, 24%, 87%);
+}
+.summary-content-p{
+    color:hsl(231, 11%, 63%) ;
+}
+.main-summary-content{
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+    margin-top: 2%;
+}
+.main-summary-content p{
+    color:hsl(231, 11%, 63%) ;
+}
+.main-summary-content span{
+    color:  hsl(243, 100%, 62%);
+    font-size: 20px;
+    font-weight: bold;
+}
 
 
 .summary-content {
     display: flex;
     justify-content: space-between;
-    background-color: hsl(229, 24%, 87%);
+   
     /* border-radius: 10px; */
     
 }

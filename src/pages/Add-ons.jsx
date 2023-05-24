@@ -5,7 +5,7 @@ import "../styles/addon.css"
 function Add_ons() {
     return (
         <div className='add-container'>
-            <h4>Pick add-ons</h4>
+            <h4 className='add-Ons'>Pick add-ons</h4>
             <p>
                 Add-ons help enhance your gaming experience.
             </p>
